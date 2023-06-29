@@ -1,0 +1,13 @@
+pandas
+pyarrow
+flask
+torch
+jupyter
+requests
+pandera
+tqdm
+loguru
+sentence-transformers
+faiss-cpu
+librosa
+podcast_downloader
